@@ -1,0 +1,30 @@
+{
+    "id": "0f72f37e-246b-4c0d-8eb3-deaf8ad2bf86",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "0f72f37e-246b-4c0d-8eb3-deaf8ad2bf86",
+    "children": [
+        "b8857bf2-7c7c-417d-a5c5-25305bc896f3",
+        "b2777ca9-c7c1-4c22-bddc-5bac9627464c",
+        "d7b3fa84-a73f-4327-bcb8-e0b55708e601",
+        "08f09444-dd80-4547-baa7-8e81656255ac",
+        "f8e6cbd5-9f6f-448d-8c0d-a69030a344d6",
+        "de4247b0-f112-4bad-a655-03e4dd1481dd",
+        "09c198b1-9c52-4eee-9aa8-abde7cb36da8",
+        "7bb857ef-dd2e-4a51-8668-31b248b6f7a9",
+        "133860ff-eb6b-40d6-9d27-9394f869bcf1",
+        "c19f4c65-8b81-44ab-88a9-a4cea2a671aa",
+        "09b7a1b6-84d8-4c29-9f31-64e944fb6705",
+        "11c77e51-cdf0-4029-8fea-b6486f1dc8e7",
+        "7a73584f-3497-4c83-934c-6d7be76925fd",
+        "ca3aacfd-0986-443c-af9a-ae736dabdbb5",
+        "ad283a39-93e5-49a2-b1c3-e935ad13cc6c",
+        "6d9645b5-08c2-4cf9-86bb-aaedf18c081f",
+        "764ca2f9-c1ba-4c73-8b00-311fc63471ba",
+        "7421f25a-9598-42d2-bfa4-dc9cc074fdbd"
+    ],
+    "filterType": "GMTileSet",
+    "folderName": "tilesets",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Tilesets"
+}
