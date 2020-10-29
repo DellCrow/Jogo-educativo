@@ -1,0 +1,1 @@
+global.dif = 1;
